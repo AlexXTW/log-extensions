@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="logging_utils", # Replace with your own username
+    name="logging_dl1244ssk2", # Replace with your own username
     version="0.0.1",
     author="Alex X.T. Wang",
     author_email="xintong.wang@riotinto.com",
