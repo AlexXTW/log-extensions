@@ -1,4 +1,6 @@
 # Logging utilities
+![Upload Python Package](https://github.com/AlexXTW/logging_utils/workflows/Upload%20Python%20Package/badge.svg)
+
 Utilities package for logging various entities.
 
 ## Installation
